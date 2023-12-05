@@ -1,0 +1,110 @@
+,0
+0,Age
+1,Cups Per Day
+2,Where do you typically drink coffee?
+3,Typically Home?
+4,Typically Office?
+5,Typically on the go?
+6,Typically at Cafe
+7,None of These?
+8,Brew Methods
+9,Pour Over?
+10,How do you brew coffee at home? (French press)
+11,How do you brew coffee at home? (Espresso)
+12,How do you brew coffee at home? (Coffee brewing machine (e.g. Mr. Coffee))
+13,How do you brew coffee at home? (Pod/capsule machine (e.g. Keurig/Nespresso))
+14,How do you brew coffee at home? (Instant coffee)
+15,How do you brew coffee at home? (Bean-to-cup machine)
+16,How do you brew coffee at home? (Cold brew)
+17,How do you brew coffee at home? (Coffee extract (e.g. Cometeer))
+18,How do you brew coffee at home? (Other)
+19,How else do you brew coffee at home?
+20,"On the go, where do you typically purchase coffee?"
+21,"On the go, where do you typically purchase coffee? (National chain (e.g. Starbucks, Dunkin))"
+22,"On the go, where do you typically purchase coffee? (Local cafe)"
+23,"On the go, where do you typically purchase coffee? (Drive-thru)"
+24,"On the go, where do you typically purchase coffee? (Specialty coffee shop)"
+25,"On the go, where do you typically purchase coffee? (Deli or supermarket)"
+26,"On the go, where do you typically purchase coffee? (Other)"
+27,Where else do you purchase coffee?
+28,What is your favorite coffee drink?
+29,Please specify what your favorite coffee drink is
+30,Do you usually add anything to your coffee?
+31,Do you usually add anything to your coffee? (No - just black)
+32,"Do you usually add anything to your coffee? (Milk, dairy alternative, or coffee creamer)"
+33,Do you usually add anything to your coffee? (Sugar or sweetener)
+34,Do you usually add anything to your coffee? (Flavor syrup)
+35,Do you usually add anything to your coffee? (Other)
+36,What else do you add to your coffee?
+37,What kind of dairy do you add?
+38,What kind of dairy do you add? (Whole milk)
+39,What kind of dairy do you add? (Skim milk)
+40,What kind of dairy do you add? (Half and half)
+41,What kind of dairy do you add? (Coffee creamer)
+42,What kind of dairy do you add? (Flavored coffee creamer)
+43,What kind of dairy do you add? (Oat milk)
+44,What kind of dairy do you add? (Almond milk)
+45,What kind of dairy do you add? (Soy milk)
+46,What kind of dairy do you add? (Other)
+47,What kind of sugar or sweetener do you add?
+48,What kind of sugar or sweetener do you add? (Granulated Sugar)
+49,"What kind of sugar or sweetener do you add? (Artificial Sweeteners (e.g., Splenda))"
+50,What kind of sugar or sweetener do you add? (Honey)
+51,What kind of sugar or sweetener do you add? (Maple Syrup)
+52,What kind of sugar or sweetener do you add? (Stevia)
+53,What kind of sugar or sweetener do you add? (Agave Nectar)
+54,What kind of sugar or sweetener do you add? (Brown Sugar)
+55,What kind of sugar or sweetener do you add? (Raw Sugar (Turbinado))
+56,What kind of flavorings do you add?
+57,What kind of flavorings do you add? (Vanilla Syrup)
+58,What kind of flavorings do you add? (Caramel Syrup)
+59,What kind of flavorings do you add? (Hazelnut Syrup)
+60,What kind of flavorings do you add? (Cinnamon (Ground or Stick))
+61,What kind of flavorings do you add? (Peppermint Syrup)
+62,What kind of flavorings do you add? (Other)
+63,What other flavoring do you use?
+64,"Before today's tasting, which of the following best described what kind of coffee you like?"
+65,How strong do you like your coffee?
+66,What roast level of coffee do you prefer?
+67,How much caffeine do you like in your coffee?
+68,"Lastly, how would you rate your own coffee expertise?"
+69,Coffee A - Bitterness
+70,Coffee A - Acidity
+71,Coffee A - Personal Preference
+72,Coffee A - Notes
+73,Coffee B - Bitterness
+74,Coffee B - Acidity
+75,Coffee B - Personal Preference
+76,Coffee B - Notes
+77,Coffee C - Bitterness
+78,Coffee C - Acidity
+79,Coffee C - Personal Preference
+80,Coffee C - Notes
+81,Coffee D - Bitterness
+82,Coffee D - Acidity
+83,Coffee D - Personal Preference
+84,Coffee D - Notes
+85,"Between Coffee A, Coffee B, and Coffee C which did you prefer?"
+86,"Between Coffee A and Coffee D, which did you prefer?"
+87,"Lastly, what was your favorite overall coffee?"
+88,Do you work from home or in person?
+89,"In total, much money do you typically spend on coffee in a month?"
+90,Why do you drink coffee?
+91,Why do you drink coffee? (It tastes good)
+92,Why do you drink coffee? (I need the caffeine)
+93,Why do you drink coffee? (I need the ritual)
+94,Why do you drink coffee? (It makes me go to the bathroom)
+95,Why do you drink coffee? (Other)
+96,Other reason for drinking coffee
+97,Do you like the taste of coffee?
+98,Do you know where your coffee comes from?
+99,Most Paid
+100,What is the most you'd ever be willing to pay for a cup of coffee?
+101,Do you feel like you’re getting good value for your money when you buy coffee at a cafe?
+102,Approximately how much have you spent on coffee equipment in the past 5 years?
+103,Do you feel like you’re getting good value for your money with regards to your coffee equipment?
+104,Gender
+105,Education Level
+106,Ethnicity/Race
+107,Employment Status
+108,Number of Children
